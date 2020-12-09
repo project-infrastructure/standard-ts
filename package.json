@@ -1,0 +1,15 @@
+{
+  "name": "@project-repository/standard-ts",
+  "version": "1.0.0",
+  "description": "this is standard about typescript",
+  "main": "index.ts",
+  "author": "laiyefei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-repository/standard-ts.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}

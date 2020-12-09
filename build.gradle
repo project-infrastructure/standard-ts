@@ -1,0 +1,8 @@
+//plugins {
+//    id "com.github.node-gradle.node" version "1.3.0"
+//}
+//
+//task publish(type: YarnTask, dependsOn: yarn) {
+//    group = 'node'
+//    args = ['run', 'publish']
+//}

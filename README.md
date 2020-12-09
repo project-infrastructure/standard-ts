@@ -1,2 +1,2 @@
 # standard-ts
-the standard for typescript
+project standard for typescript
